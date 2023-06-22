@@ -1,4 +1,4 @@
-# aebrer's portfolio and social links
+# aebrer's portfolio and social links (aebrer == Andrew E. Brereton)
 ![pfp](https://gateway.fxhash2.xyz/ipfs/QmZvYkcfaVTDtYwkBRPdMmuZe7roqSeHx5JBUCNKSxfSqd)
 -   [kbin](https://kbin.social/u/aebrer) this is my favorite social media, and where I enjoy discussions about my art or other people's art -> you can find me here if you wanna chat
 -   [Mastodon](https://genart.social/@aebrer) I used this for a long time before kbin, now I prefer kbin, eventually I will port this account over
