@@ -3,6 +3,7 @@
 -   [kbin](https://kbin.social/u/aebrer) this is my favorite social media, and where I enjoy discussions about my art or other people's art -> you can find me here if you wanna chat
 -   [Mastodon](https://genart.social/@aebrer) I used this for a long time before kbin, now I prefer kbin, eventually I will port this account over
 -   [twitter](https://twitter.com/aebrer) this link is here for verification, but I don't use twitter much anymore, or other corpo-owned social media
+-   [github](https://github.com/aebrer) open source code and some other things
 -   [tzprofiles signed identity statements](https://tzprofiles.com/view/tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt) use these as “gold standard” to verify my identity when needed
 -   [objkt.com profile](https://objkt.com/profile/aebrer/created) the most generally reliable place to view (almost all) of my tezos art
 -   [my latest mints on Teia.art](https://teia.art/aebrer/collabs) defaults to the collabs tab because I mostly mint there now
