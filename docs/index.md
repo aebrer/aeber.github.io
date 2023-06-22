@@ -23,3 +23,9 @@
 -   [articles on Medium](https://medium.com/@atomoton) most recently from 2019
 -   [my scientific publications (via Google Scholar)](https://scholar.google.ca/citations?user=EAv6i_wAAAAJ\&hl=en) you will see published articles, pre-prints, and patents
 -   [Tweetcart Token Club - Season 1 Summary](https://www.fxhash.xyz/article/tweetcart-token-club-season-1)
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
