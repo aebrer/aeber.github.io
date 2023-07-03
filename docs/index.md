@@ -1,5 +1,6 @@
 # aebrer's portfolio and social links (aebrer == Andrew E. Brereton)
 ![pfp](https://gateway.fxhash2.xyz/ipfs/QmZvYkcfaVTDtYwkBRPdMmuZe7roqSeHx5JBUCNKSxfSqd)
+<iframe _ngcontent-wvn-c98="" allow="accelerometer; camera; gyroscope; microphone; xr-spatial-tracking; midi;" class="fs" sandbox="allow-scripts allow-downloads" scrolling="" src="https://assets.objkt.media/file/assets-003/QmcK8M44VjUD9RpRE8RmwnXe5u46byzUuZyyCvvnD1vb5U/artifact/index.html?objkt=11&amp;creator=tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt&amp;viewer=tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt"></iframe>
 -   [kbin](https://kbin.social/u/aebrer) this is my favorite social media, and where I enjoy discussions about my art or other people's art -> you can find me here if you wanna chat
 -   [Mastodon](https://genart.social/@aebrer) I used this for a long time before kbin, now I prefer kbin, eventually I will port this account over
 -   [twitter](https://twitter.com/aebrer) this link is here for verification, but I don't use twitter much anymore, or other corpo-owned social media
