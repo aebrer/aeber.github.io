@@ -3,13 +3,13 @@
 
 <iframe _ngcontent-wvn-c98="" class="fs" sandbox="allow-scripts allow-downloads" scrolling="" src="https://ipfs.io/ipfs/QmcK8M44VjUD9RpRE8RmwnXe5u46byzUuZyyCvvnD1vb5U" width="256px" height="256px"></iframe>
 
--   [kbin](https://kbin.social/u/aebrer) this is my favorite social media, and where I enjoy discussions about my art or other people's art -> you can find me here if you wanna chat
+-   [kbin](https://kbin.social/u/aebrer) check out kbin.social/m/genart to see our small but growing genart community
 -   [Mastodon](https://genart.social/@aebrer) I used this for a long time before kbin, now I prefer kbin, eventually I will port this account over
--   [twitter](https://twitter.com/aebrer) this link is here for verification, but I don't use twitter much anymore, or other corpo-owned social media
+-   [twitter](https://twitter.com/aebrer) wish this site was better :(
 -   [github](https://github.com/aebrer) open source code and some other things
 -   [tzprofiles signed identity statements](https://tzprofiles.com/view/tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt) use these as “gold standard” to verify my identity when needed
 -   [objkt.com profile](https://objkt.com/profile/aebrer/created) the most generally reliable place to view (almost all) of my tezos art
--   [my latest mints on Teia.art](https://teia.art/aebrer/collabs) defaults to the collabs tab because I mostly mint there now
+-   [my latest mints on Teia.art](https://teia.art/aebrer/created) Teia, where I minted lots of experimental and prototype stuff, as well as some of my favorite projects
 -   [The Trace Gallery collection and full game ](https://teia.art/collab/the_trace_gallery)I put together everything I learned in one year working on my art and my Pico-8 development skills, to make this game. It’s a unique generative art experience, different each time you play it. Experience the weird mystery of The Trace Gallery, and the amazing soundtrack by Carson Kompon.
 -   [ideocartography\_realized ](https://teia.art/collab/ideocartography_realized)my ongoing AI art project, in which I take the generative ideocartography pieces from fx(hash), interpret them, and then get an AI model to realize the vision as I see it (while making sure it stays similar to the pixelart source); check the description on Teia to find links to the previous pieces in the series
 -   [my profile on Versum](https://versum.xyz/user/tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt/created)
