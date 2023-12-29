@@ -3,11 +3,16 @@
 
 <iframe _ngcontent-wvn-c98="" class="fs" sandbox="allow-scripts allow-downloads" scrolling="" src="https://ipfs.io/ipfs/QmcK8M44VjUD9RpRE8RmwnXe5u46byzUuZyyCvvnD1vb5U" width="256px" height="256px"></iframe>
 
--   [kbin](https://kbin.social/u/aebrer) check out kbin.social/m/genart to see our small but growing genart community
--   [Mastodon](https://genart.social/@aebrer) I used this for a long time before kbin, now I prefer kbin, eventually I will port this account over
+## Social Media
 -   [twitter](https://twitter.com/aebrer) wish this site was better :(
+-   [kbin](https://kbin.social/u/aebrer) check out kbin.social/m/genart to see our small but growing genart community
 -   [github](https://github.com/aebrer) open source code and some other things
 -   [tzprofiles signed identity statements](https://tzprofiles.com/view/tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt) use these as “gold standard” to verify my identity when needed
+
+## Current Projects
+-   [aebrer_screensavers](https://teia.art/collab/aebrer_screensavers) a project about generative and interactive screensavers on teia.art
+
+## Portfolio Stuff
 -   [objkt.com profile](https://objkt.com/profile/aebrer/created) the most generally reliable place to view (almost all) of my tezos art
 -   [my latest mints on Teia.art](https://teia.art/aebrer/created) Teia, where I minted lots of experimental and prototype stuff, as well as some of my favorite projects
 -   [The Trace Gallery collection and full game ](https://teia.art/collab/the_trace_gallery)I put together everything I learned in one year working on my art and my Pico-8 development skills, to make this game. It’s a unique generative art experience, different each time you play it. Experience the weird mystery of The Trace Gallery, and the amazing soundtrack by Carson Kompon.
