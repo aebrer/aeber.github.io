@@ -13,7 +13,7 @@
 -   [aebrer_screensavers](https://teia.art/collab/aebrer_screensavers) a project about generative and interactive screensavers on teia.art
 
 ## Portfolio Stuff
--   [objkt.com profile](https://objkt.com/profile/aebrer/created) the most generally reliable place to view (almost all) of my tezos art
+-   [objkt.com profile](https://objkt.com/@aebrer) the most generally reliable place to view (almost all) of my tezos art
 -   [my latest mints on Teia.art](https://teia.art/aebrer/created) Teia, where I minted lots of experimental and prototype stuff, as well as some of my favorite projects
 -   [The Trace Gallery collection and full game ](https://teia.art/collab/the_trace_gallery)I put together everything I learned in one year working on my art and my Pico-8 development skills, to make this game. It’s a unique generative art experience, different each time you play it. Experience the weird mystery of The Trace Gallery, and the amazing soundtrack by Carson Kompon.
 -   [ideocartography\_realized ](https://teia.art/collab/ideocartography_realized)my ongoing AI art project, in which I take the generative ideocartography pieces from fx(hash), interpret them, and then get an AI model to realize the vision as I see it (while making sure it stays similar to the pixelart source); check the description on Teia to find links to the previous pieces in the series
