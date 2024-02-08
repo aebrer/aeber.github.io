@@ -5,6 +5,7 @@
 
 ## Social Media
 -   [twitter](https://twitter.com/aebrer) wish this site was better :(
+-   [warpcast/farcaster](https://warpcast.com/aebrer) trying it out for now
 -   [kbin](https://kbin.social/u/aebrer) check out kbin.social/m/genart to see our small but growing genart community
 -   [github](https://github.com/aebrer) open source code and some other things
 -   [tzprofiles signed identity statements](https://tzprofiles.com/view/tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt) use these as “gold standard” to verify my identity when needed
