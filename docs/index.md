@@ -12,6 +12,7 @@
 
 ## Current Projects
 -   [aebrer_screensavers](https://teia.art/collab/aebrer_screensavers) a project about generative and interactive screensavers on teia.art
+-   [deja hue](https://app.manifold.xyz/c/deja-hue) another in the screensaver series, this time minted on Manifold
 
 ## Portfolio Stuff
 -   [objkt.com profile](https://objkt.com/@aebrer) the most generally reliable place to view (almost all) of my tezos art
