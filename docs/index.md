@@ -1,7 +1,7 @@
 # aebrer's portfolio and social links (aebrer == Andrew E. Brereton)
 ![pfp](https://gateway.fxhash2.xyz/ipfs/QmZvYkcfaVTDtYwkBRPdMmuZe7roqSeHx5JBUCNKSxfSqd)
 
-<iframe _ngcontent-wvn-c98="" class="fs" sandbox="allow-scripts allow-downloads" scrolling="" src="https://cache.teia.rocks/ipfs/bafybeicsuntawdi66kxgnjq2otg3avzzgfkbbyj3q22zjkrofgx7e4oslm/?creator=KT1XuaeAF47TCmn5uaZqhMZZbp9rdG7576jJ&viewer=tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt&objkt=843537" width="256px" height="256px"></iframe>
+<iframe _ngcontent-wvn-c98="" class="fs" sandbox="allow-scripts allow-downloads" scrolling="" src="https://assets.objkt.media/file/assets-003/bafybeidufgxl7qyy2i7yympdn5fgrnncmblrkuxwadb7rv4zurbsjzjnlq/artifact/index.html" width="768px" height="256px"></iframe>
 
 ## Social Media
 -   [twitter](https://twitter.com/aebrer) wish this site was better :(
