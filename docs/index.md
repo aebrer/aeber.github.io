@@ -9,7 +9,6 @@
 -   [github](https://github.com/aebrer) open source code and some other things
 -   [tzprofiles signed identity statements](https://tzprofiles.com/view/tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt) use these as “gold standard” to verify my identity when needed
 -   [twitter](https://twitter.com/aebrer) wish this site was better :(
--   [kbin](https://kbin.social/u/aebrer) not actively using this
 
 ## Current Projects
 -   [aebrer_screensavers](https://teia.art/collab/aebrer_screensavers) a project about generative and interactive screensavers on teia.art
@@ -20,6 +19,7 @@
 -   [opensea profile](https://opensea.io/aebrer/created) I've minted a few things on ETH or Base lately, you can view them here
 -   [my latest mints on Teia.art](https://teia.art/aebrer/created) Teia, where I minted lots of experimental and prototype stuff, as well as some of my favorite projects
 -   [The Trace Gallery collection and full game ](https://teia.art/collab/the_trace_gallery)I put together everything I learned in one year working on my art and my Pico-8 development skills, to make this game. It’s a unique generative art experience, different each time you play it. Experience the weird mystery of The Trace Gallery, and the amazing soundtrack by Carson Kompon.
+  +  [Direct link to the playable game](https://teia.art/objkt/717500)
 -   [ideocartography\_realized ](https://teia.art/collab/ideocartography_realized)my ongoing AI art project, in which I take the generative ideocartography pieces from fx(hash), interpret them, and then get an AI model to realize the vision as I see it (while making sure it stays similar to the pixelart source); check the description on Teia to find links to the previous pieces in the series
 -   [my profile on Versum](https://versum.xyz/user/tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt/created)
 -   [pico\_punks (Versum)](https://versum.xyz/board/8Dt3fAfO8)
