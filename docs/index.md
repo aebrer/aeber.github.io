@@ -15,7 +15,7 @@
 - Otherwise, focused on the occasional one-off piece, busy with work IRL among other things.
 
 ## Portfolio Stuff
--   [my latest mints on Teia.art](https://teia.art/aebrer/created) Teia, where I minted lots of experimental and prototype stuff, as well as some of my favorite projects
+-   [my latest mints on Teia.art](https://teia.art/aebrer) Teia, where I minted lots of experimental and prototype stuff, as well as some of my favorite projects
 -   [objkt.com profile](https://objkt.com/@aebrer) the most generally reliable place to view (almost all) of my tezos art (and thus the bulk of my art)
 -   [opensea profile](https://opensea.io/aebrer/created) I've minted a few things on ETH or Base lately, you can view them here
 -   [deja hue](https://app.manifold.xyz/c/deja-hue) another in the screensaver series, this time minted on Manifold
