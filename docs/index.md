@@ -1,23 +1,24 @@
 # aebrer's portfolio and social links (aebrer == Andrew E. Brereton)
 ![pfp](https://gateway.fxhash2.xyz/ipfs/QmZvYkcfaVTDtYwkBRPdMmuZe7roqSeHx5JBUCNKSxfSqd)
 
-<iframe _ngcontent-wvn-c98="" class="fs" sandbox="allow-scripts allow-downloads" scrolling="" src="https://iinaectdn4ek3uwx4vpz2jsefxg26lwlycgqsy3ho5mqied7d3aq.arweave.net/QhoCCmNvCK3S1-VfnSZELc2vLsvAjQljZ3dZBBB_HsE/" width="768px" height="256px"></iframe>
+<iframe _ngcontent-wvn-c98="" class="fs" sandbox="allow-scripts allow-downloads" scrolling="" src="https://iinaectdn4ek3uwx4vpz2jsefxg26lwlycgqsy3ho5mqied7d3aq.arweave.net/QhoCCmNvCK3S1-VfnSZELc2vLsvAjQljZ3dZBBB_HsE/" width="95vm" height="15vh"></iframe>
 
 ## Social Media
--   [warpcast/farcaster](https://warpcast.com/aebrer) my main social media in use
+-   [bluesky](https://bsky.app/profile/aebrer.xyz) my main social media in use
 -   [mastodon](https://genart.social/@aebrer) less popular but I visit from time to time
 -   [github](https://github.com/aebrer) open source code and some other things
 -   [tzprofiles signed identity statements](https://tzprofiles.com/view/tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt) use these as “gold standard” to verify my identity when needed
--   [twitter](https://twitter.com/aebrer) wish this site was better :(
+-   [twitter](https://twitter.com/aebrer) Wish this site was better :( . Not using this account except in very limited ways, you likely can't reach me here, I'm just including it to reduce impersonation attempts.
 
 ## Current Projects
--   [aebrer_screensavers](https://teia.art/collab/aebrer_screensavers) a project about generative and interactive screensavers on teia.art
--   [deja hue](https://app.manifold.xyz/c/deja-hue) another in the screensaver series, this time minted on Manifold
+- Recently participated in #Art4Artist, a collective art show with 40 artists where profits were split between us all evenly. https://bsky.app/profile/aebrer.xyz/post/3lbmtdhxrfs2g
+- Otherwise, focused on the occasional one-off piece, busy with work IRL among other things.
 
 ## Portfolio Stuff
+-   [my latest mints on Teia.art](https://teia.art/aebrer/created) Teia, where I minted lots of experimental and prototype stuff, as well as some of my favorite projects
 -   [objkt.com profile](https://objkt.com/@aebrer) the most generally reliable place to view (almost all) of my tezos art (and thus the bulk of my art)
 -   [opensea profile](https://opensea.io/aebrer/created) I've minted a few things on ETH or Base lately, you can view them here
--   [my latest mints on Teia.art](https://teia.art/aebrer/created) Teia, where I minted lots of experimental and prototype stuff, as well as some of my favorite projects
+-   [deja hue](https://app.manifold.xyz/c/deja-hue) another in the screensaver series, this time minted on Manifold
 -   [The Trace Gallery collection and full game ](https://teia.art/collab/the_trace_gallery)I put together everything I learned in one year working on my art and my Pico-8 development skills, to make this game. It’s a unique generative art experience, different each time you play it. Experience the weird mystery of The Trace Gallery, and the amazing soundtrack by Carson Kompon.
   +  [Direct link to the playable game](https://teia.art/objkt/717500)
 -   [ideocartography\_realized ](https://teia.art/collab/ideocartography_realized)my ongoing AI art project, in which I take the generative ideocartography pieces from fx(hash), interpret them, and then get an AI model to realize the vision as I see it (while making sure it stays similar to the pixelart source); check the description on Teia to find links to the previous pieces in the series
