@@ -1,7 +1,7 @@
 # aebrer's portfolio and social links (aebrer == Andrew E. Brereton)
 ![pfp](https://gateway.fxhash2.xyz/ipfs/QmZvYkcfaVTDtYwkBRPdMmuZe7roqSeHx5JBUCNKSxfSqd)
 
-<iframe _ngcontent-wvn-c98="" class="fs" sandbox="allow-scripts allow-downloads" scrolling="" src="https://iinaectdn4ek3uwx4vpz2jsefxg26lwlycgqsy3ho5mqied7d3aq.arweave.net/QhoCCmNvCK3S1-VfnSZELc2vLsvAjQljZ3dZBBB_HsE/" width="95vm" height="15vh"></iframe>
+<iframe _ngcontent-wvn-c98="" class="fs" sandbox="allow-scripts allow-downloads" scrolling="" src="https://iinaectdn4ek3uwx4vpz2jsefxg26lwlycgqsy3ho5mqied7d3aq.arweave.net/QhoCCmNvCK3S1-VfnSZELc2vLsvAjQljZ3dZBBB_HsE/" width="95vw" height="250px"></iframe>
 
 ## Social Media
 -   [bluesky](https://bsky.app/profile/aebrer.xyz) my main social media in use
