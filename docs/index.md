@@ -8,7 +8,6 @@
 -   [mastodon](https://genart.social/@aebrer) less popular but I visit from time to time
 -   [github](https://github.com/aebrer) open source code and some other things
 -   [tzprofiles signed identity statements](https://tzprofiles.com/view/tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt) use these as “gold standard” to verify my identity when needed
--   [twitter](https://twitter.com/aebrer) Wish this site was better :( . Not using this account except in very limited ways, you likely can't reach me here, I'm just including it to reduce impersonation attempts.
 
 ## Current Projects
 - Recently participated in #Art4Artist, a collective art show with 40 artists where profits were split between us all evenly. https://bsky.app/profile/aebrer.xyz/post/3lbmtdhxrfs2g
@@ -30,7 +29,7 @@
 -   [generative Pico-8 art and fx(hash) tutorial recorded for YouTube](https://youtu.be/Hex4HyMSWsc)
 -   [Neoretro Creative Coding discord community ](https://discord.gg/rdqFhxVd89)a positive vibes discord for hanging out, sharing projects, and developing art and games; no gatekeeping
 -   [my profile on Rarible ](https://rarible.com/aebrer/created)I don’t mint much on here, not decentralized enough IMO, but there are some things I do love a lot there
--   [pico\_galaxies project (via objkt) ](https://objkt.com/profile/picogalaxies/created)A looping gif project, an exploration of spirals, recursion, and dynamic equilibria on the Pico-8 Fantasy Console.
+-   [pico\_galaxies project (via objkt) ](https://objkt.com/users/tz1UBiRHnrvzBzhzyLZSRk67CjXgVXuETPC3)A looping gif project, an exploration of spirals, recursion, and dynamic equilibria on the Pico-8 Fantasy Console.
 -   [threshold\_galaxies (via objkt) ](https://objkt.com/profile/tz1UU6Pxaz9Tk2wwW4wtfezkpDTYGBA52tng/created)a collection of curated outputs from some of my generators; made this before fx(hash) was a thing
 -   [my profile on AB2 Gallery ](https://ab2.gallery/address/YLVFL76O23XTPRNB2BBY3MLXJ4P7KP4B5OYTLDIYAVPBWC5FWZELXW4J6I)haven’t minted on anything but Tezos for a long time, but I did dabble briefly on Algorand
 -   [articles on Medium](https://medium.com/@atomoton) most recently from 2019
